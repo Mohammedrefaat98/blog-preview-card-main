@@ -20,6 +20,7 @@ html,body{
     border-radius: 1em;
     border: 1px solid black;
     width: 25%;
+    box-shadow: 10px 10px;
 }
 .tag{
     justify-content: left;
@@ -62,6 +63,9 @@ html,body{
 .account p{
     margin-left: 0.5em;
     font-weight: bold;
+}
+.attribution{
+    margin-top: 5vh;
 }
 
 @media screen and (max-device-width: 640px){
